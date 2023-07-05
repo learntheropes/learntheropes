@@ -7,7 +7,7 @@ Passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [5BA78A510CDA44132BDC51FA58C798100FF8A743](https://keys.openpgp.org/vks/v1/by-fingerprint/5BA78A510CDA44132BDC51FA58C798100FF8A743)  
 Nostr: [giovanni@learntheropes.xyz](https://iris.to/giovanni@learntheropes.xyz)  
-Lightning Network: [giovanni@learntheropes.xyz](lightning:giovanni@learntheropes.xyz)  
+Lightning Network: `giovanni@learntheropes.xyz`
 
 Currently working on open source projects:  
 - [btcpay-booking](https://github.com/learntheropes/btcpay-booking): a self custodial, KYC free, booking system for bitcoiners powered by Btcpay Server, Nitro and Nuxt.  
