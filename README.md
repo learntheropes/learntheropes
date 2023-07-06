@@ -1,4 +1,4 @@
-# Wannabe full stack web developer and Bitcoin maximalist
+# Wannabe full stack web developer and cypherpunk Bitcoin maximalist
 
 My first coding experience was with [Lua](https://www.lua.org/).  
 I'm now a self-made [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) developer.    
