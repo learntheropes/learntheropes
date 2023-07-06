@@ -1,6 +1,6 @@
 # Wannabe full stack web developer and cypherpunk Bitcoin maximalist
 
-My first coding experience was with [Lua](https://www.lua.org/) 4 years ago.  
+My first coding experience was with [Lua](https://www.lua.org/) 5 years ago.  
 I'm now a self-made [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) developer.    
 Passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib).  
 
