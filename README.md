@@ -10,6 +10,6 @@ Nostr: [giovanni@learntheropes.xyz](https://iris.to/giovanni@learntheropes.xyz)
 Lightning Network: `giovanni@learntheropes.xyz`
 
 Currently working on open source projects:  
-- [btcpay-booking](https://github.com/learntheropes/btcpay-booking): a self custodial, KYC free, booking system for bitcoiners powered by Btcpay Server, Nitro and Nuxt.  
-- [btcpay-any](https://github.com/learntheropes/btcpay-any): a platform for invoicing, ecommerce and bookings system powered by Btcpay Server, Nitro and Nuxt.  
+- [btcpay-booking](https://github.com/learntheropes/btcpay-booking): a self custodial, KYC free, booking system for bitcoiners powered by Btcpay Server, Peach Bitcoin, Nitro and Nuxt.  
+- [btcpay-any](https://github.com/learntheropes/btcpay-any): a platform for invoicing, ecommerce and bookings system powered by Btcpay Server, Peach Bitcoin, Nitro and Nuxt.  
 
