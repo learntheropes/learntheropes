@@ -1,8 +1,9 @@
-# Full stack web developer and cypherpunk Bitcoin maximalist
+# Full stack developer and cypherpunk Bitcoin maximalistweb
 
 My first coding experience was with [Lua](https://www.lua.org/) in 2017.  
-I'm now a self-made [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) developer.    
+I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior web developer.    
 I'm also passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib).  
+I also have a part-time job as full stack mobile devloper with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/) at [Bitcoin People](https://bitcoinpeople.it/)
 
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [5BA78A510CDA44132BDC51FA58C798100FF8A743](https://keys.openpgp.org/vks/v1/by-fingerprint/5BA78A510CDA44132BDC51FA58C798100FF8A743)  
