@@ -1,4 +1,4 @@
-# Full stack developer and cypherpunk Bitcoin maximalistweb
+# Full stack developer and cypherpunk Bitcoin maximalist
 
 My first coding experience was with [Lua](https://www.lua.org/) in 2017.  
 I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior web developer.    
