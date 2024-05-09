@@ -1,6 +1,6 @@
 # Full stack developer and cypherpunk Bitcoin maximalist
 
-I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior web developer.    
+I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior open source web developer.    
 I'm also passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib).  
 I have a part-time jobs as full stack mobile developer with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/) at [Bitcoin People](https://bitcoinpeople.it/) and as [React](https://react.dev/) developer at [Peach Bitcoin](https://peachbitcoin.com/).
 
