@@ -12,7 +12,7 @@ Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)
 PGP: [5BA78A510CDA44132BDC51FA58C798100FF8A743](https://keys.openpgp.org/vks/v1/by-fingerprint/5BA78A510CDA44132BDC51FA58C798100FF8A743)  
 Nostr: [giovanni@learntheropes.xyz](https://iris.to/giovanni@learntheropes.xyz)  
 Lightning Network: `giovanni@learntheropes.xyz`  
-Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)
+Telegram: [LEARNTHEROPES_XYZ](https://t.me/LEARNTHEROPES_XYZ)  
 
 Public BTCPay Server instance available at [https://learntheropes.xyz](https://learntheropes.xyz).  
 Feel free to contact me by email or telegram if you need help with the setup.
