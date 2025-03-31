@@ -1,5 +1,4 @@
-# Full stack web developer and freedom lover
-### Bitcoin and LatAm early adopter
+# Full stack web developer and Bitcoin and LatAm early adopter
 
 I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior open source web developer.
 I'm also passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib).
