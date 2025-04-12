@@ -3,7 +3,7 @@
 I'm a [Nitro](https://nitro.unjs.io/) and [Nuxt](https://nuxt.com/) senior open source web developer.
 I'm also passionate about [Btcpay Server](https://github.com/btcpayserver) and [Bitcoinjs](https://github.com/bitcoinjs/bitcoinjs-lib).
 
-Main developer of [P2Pay Server](https://github.com/p2payserver): Open Source P2P KYC-free Payment Processor where the buyers pay in fiat and the merchants always receive bitcoin.   
+Main developer of [P2Pay Server](https://github.com/p2payserver): Open Source P2P KYC-free Payment Processor where the marchat get BTC for fiat payments.   
 Founder of [Blockchange](https://blockchange.com.py) helping self custodial Bitcoin and crypto business to relocate to Paraguay.  
 Head of Operation at [Peach Bitcoin](https://peachbitcoin.com) p2p KYC-free self custiodal Bitcoin exchange.   
   
