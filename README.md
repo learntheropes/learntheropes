@@ -8,6 +8,6 @@ Founder of Blockchange, designing complete value flows across cards, banks, and 
 
 Head of Operations at Peach Bitcoin, a self-custodial, KYC-free P2P exchange.
 
-Email: giovanni@learntheropes.xyz  
-PGP: B683932A2E5629234C48605E5CF45E311D1FB753  
-Nostr / Lightning: giovanni@learntheropes.xyz  
+Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
+PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](B683932A2E5629234C48605E5CF45E311D1FB753)  
+Nostr / Lightning: [giovanni@learntheropes.xyz](https://njump.me/giovanni@learntheropes.xyz)  
