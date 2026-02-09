@@ -11,4 +11,3 @@ Head of Operations at Peach Bitcoin, a self-custodial, KYC-free P2P exchange.
 Email: giovanni@learntheropes.xyz  
 PGP: B683932A2E5629234C48605E5CF45E311D1FB753  
 Nostr / Lightning: giovanni@learntheropes.xyz  
-Telegram: giovanni_learntheropes_xyz
