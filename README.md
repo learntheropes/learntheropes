@@ -1,4 +1,4 @@
-# Full-stack web developer focused on payment infrastructure and Bitcoin.
+# Full-stack web developer focused on payment infrastructure and Bitcoin
 
 Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server, bitcoinjs, and non-custodial payment systems.
 
