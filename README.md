@@ -2,9 +2,9 @@
 
 Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server, bitcoinjs, and non-custodial payment systems.
 
-Main developer of [P2Pay](https://github.com/p2payto), a multi-rail, open-source payment processor enabling bitcoin settlement for fiat payments. Where most of my repos have been moved.
+Main developer of [P2Pay](https://github.com/p2pay), a multi-rail, open-source payment processor enabling bitcoin settlement for fiat payments. Where most of my repos have been moved.
 
-Founder of [Blockchange](https://github.com/learntheropes/blockchange-site), designing complete value flows across cards, banks, and local rails, with final settlement in bitcoin or digital dollars.
+Founder of [Blockchange](https://www.blockchange.expert), designing complete value flows across cards, banks, and local rails, with final settlement in bitcoin or digital dollars.
 
 Head of Operations at Peach Bitcoin, a self-custodial, KYC-free P2P exchange.
 
