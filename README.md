@@ -1,12 +1,10 @@
-# Full-stack web developer focused on payment infrastructure and Bitcoin
+# Full-Stack Web Developer | Startup Operations • Payment Infrastructure & Bitcoin | Since 2014  
 
 Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server, bitcoinjs, and non-custodial payment systems.
 
-Main developer of [P2Pagos](https://github.com/p2pagos), a multi-rail, open-source payment processor enabling bitcoin settlement for fiat payments. Where most of my repos have been moved.
+Cofunder and CEO at [P2Pagos](https://github.com/p2pagos), a multi-rail, open-source payment processor enabling bitcoin settlement for fiat payments. Where most of my repos have been moved.
 
-Founder of [Blockchange](https://www.blockchange.expert), designing complete value flows across cards, banks, and local rails, with final settlement in bitcoin or digital dollars.
-
-Head of Operations at Peach Bitcoin, a self-custodial, KYC-free P2P exchange.
+Formerly: [Locabitcoins](https://localbitcoins.com) & [Peach Bitcoin](https://peachbitcoin.com)
 
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://keys.openpgp.org/vks/v1/by-fingerprint/B683932A2E5629234C48605E5CF45E311D1FB753)  
