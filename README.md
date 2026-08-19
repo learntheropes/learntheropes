@@ -1,11 +1,9 @@
-# Full-Stack Web Developer | Startup Operations • Payment Infrastructure & Bitcoin | Since 2014  
+# Startup Operations • Payment Infrastructure & Bitcoin since 2014  
 
-Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server, bitcoinjs, and non-custodial payment systems.
+Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server and non-custodial payment systems.
 
-Cofunder and CEO at [P2Pagos](https://github.com/p2pagos), a multi-rail, open-source payment processor enabling bitcoin settlement for fiat payments. Where most of my repos have been moved.
+Cofounder and CEO at [Paguaitu](https://github.com/paguaitu), a multi-rail payment orchestrator enabling bitcoin or stable-coins settlement for fiat payments.  
+
+Solopreneur at [Fantasia Latina](https://github.com/fantasia-lat) where I help international businesses to enter the LatAm market with Paraguay as a hub and the Paraguayan business to expand to the LatAm market.  
 
 Formerly: [Locabitcoins](https://localbitcoins.com) & [Peach Bitcoin](https://peachbitcoin.com)
-
-Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
-PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://keys.openpgp.org/vks/v1/by-fingerprint/B683932A2E5629234C48605E5CF45E311D1FB753)  
-Nostr / Lightning: [giovanni@learntheropes.xyz](https://njump.me/giovanni@learntheropes.xyz)  
