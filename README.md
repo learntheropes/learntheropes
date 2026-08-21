@@ -6,6 +6,6 @@ Cofounder and CEO at [Paguaitu](https://github.com/paguaitu), a multi-rail payme
 
 Solopreneur at [Fantasia Latina](https://github.com/fantasia-lat) where I help international businesses to enter the LatAm market with Paraguay as a hub and the Paraguayan business to expand to the LatAm market.  
 
-Formerly: [Locabitcoins](https://localbitcoins.com) & [Peach Bitcoin](https://peachbitcoin.com)  
+Formerly: [Locabitcoins](https://localbitcoins.com), [Bitcoin People](https://bitcoinpeople.it/en), [Peach Bitcoin](https://peachbitcoin.com).  
 
 *Since 2014*
