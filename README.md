@@ -1,4 +1,4 @@
-# Startup Operations • Payment Infrastructure & Bitcoin • AI 
+# Startup Ops • Bitcoin & Payments • AI • Emerging Markets
 
 Senior Nuxt and Nitro open-source developer. Deeply involved in BTCPay Server and non-custodial payment systems.
 
